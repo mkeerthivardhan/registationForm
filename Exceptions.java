@@ -42,4 +42,4 @@ public class PasswordException extends Exception {
 		 super(s);
 	 }
  }
-
+//it will accept all exception from main.java file 
