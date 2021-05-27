@@ -43,3 +43,4 @@ public class PasswordException extends Exception {
 	 }
  }
 //it will accept all exception from main.java file 
+//This is important for all Exception handle in registation form page
